@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Indian Bibles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Developed by \nKalangi Rajeev</string>
+    <string name="nav_header_subtitle">i.kalangirajeev@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_bible">Telugu Bible</string>
+    <string name="menu_create_blog">My Prayer Requests</string>
+    <string name="menu_blogs_2020">Posts 2020</string>
+    <string name="menu_user_blogs">User Posts</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_search_blog"></string>
+    <string name="email_verified">Verified</string>
+    <string name="email_not_verified">Not Verified (Click here for e-mail Verification)</string>
+    <string name="phone_number_verified">Phone Number Successfully Verified</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eng_tel_dictionary">Eng-Tel Dictionary</string>
+    <string name="hindi_bible">Hindi Bible</string>
+    <string name="malayalam_bible">Malayalam Bible</string>
+    <string name="tamil_bible">Tamil Bible</string>
+    <string name="kannada_bible">Kannada Bible</string>
+    <string name="english_bible">English Bible</string>
+
+</resources>

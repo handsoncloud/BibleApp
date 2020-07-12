@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/englishBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/english_bible" />
+        <item
+            android:id="@+id/teluguBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/menu_bible" />
+        <item
+            android:id="@+id/hindiBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/hindi_bible" />
+        <item
+            android:id="@+id/kannadaBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/kannada_bible" />
+        <item
+            android:id="@+id/tamilBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/tamil_bible" />
+        <item
+            android:id="@+id/malayalamBible"
+            android:icon="@drawable/ic_menu_book"
+            android:title="@string/malayalam_bible" />
+        <item
+            android:id="@+id/dictFragment"
+            android:icon="@drawable/ic_boy"
+            android:title="@string/eng_tel_dictionary"/>
+
+    </group>
+
+    <item android:title="Posts">
+        <menu>
+            <item
+                android:id="@+id/profileFragment"
+                android:icon="@drawable/ic_user_name"
+                android:title="@string/menu_profile" />
+
+            <item
+                android:id="@+id/blogsFragment"
+                android:icon="@drawable/ic_menu_message"
+                android:title="@string/menu_blogs_2020" />
+
+            <item
+                android:id="@+id/userBlogsFragment"
+                android:icon="@drawable/ic_blog_description"
+                android:title="@string/menu_user_blogs" />
+
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/shareApp"
+                android:title="Share App"
+                android:icon="@drawable/ic_menu_share"/>
+        </menu>
+    </item>
+
+
+</menu>
